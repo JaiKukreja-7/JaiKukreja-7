@@ -4,7 +4,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 2nd year CS student
+- 🎓 3rd year CS student
 - 🔭 Currently building AI-powered apps with Next.js & Supabase
 - 💼 Open to internships and entry-level roles
 - 📍 India
