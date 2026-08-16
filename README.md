@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jai</h1>
-<p align="center">CS undergrad · Full-stack dev · Open to internships</p>
+<p align="center"> CS undergrad · Full-stack dev · Open to internships</p>
 
 ---
 
