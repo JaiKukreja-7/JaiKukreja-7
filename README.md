@@ -26,7 +26,6 @@
 
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![xAI Grok](https://img.shields.io/badge/xAI_Grok-000?logo=x&logoColor=white)
 
 
 
